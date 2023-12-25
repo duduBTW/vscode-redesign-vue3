@@ -12,6 +12,6 @@ Design based on [dukkcc](https://www.figma.com/@dukkcc) figma [Design](https://w
 
 `npm run build`
 
-## Preview build project
+## Preview built project
 
 `npm run preview`
